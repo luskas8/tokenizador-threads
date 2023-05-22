@@ -1,0 +1,23 @@
+Atividade de Programação Paralela e Concorrente
+
+Escopo:
+
+Fazer a categorização dos valores de um dataset através de threads, como é feito em pandas, categorizando em valores dados nominais e categóricos.
+Em c++.
+
+Links úteis:
+
+https://www.bogotobogo.com/cplusplus/C11/7_C11_Thread_Sharing_Memory.php
+
+https://java2blog.com/read-csv-file-in-cpp/
+
+https://iq.opengenus.org/read-and-write-in-csv-in-cpp/
+
+https://www.cism.ucl.ac.be/Services/Formations/ICS/ics_2013.0.028/advisor_xe/documentation/en/help/GUID-6BDC243E-375A-4E0C-8384-864D98800556.htm
+
+https://www.onlinegdb.com/online_c++_compiler
+
+https://www.techiedelight.com/sort-map-values-cpp/
+
+https://stackoverflow.com/questions/9213489/c-read-from-file-and-tokenize-data
+
